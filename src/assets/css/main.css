@@ -1,0 +1,35 @@
+.main {
+  display: flex;
+  height: 100%;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 0, 0, 0),
+    rgba(225, 230, 245, 255)
+  );
+  justify-content: center;
+}
+.hw100 {
+  height: 100vh;
+  width: 100vw;
+}
+.mwmt {
+  max-width: 400px;
+  margin-top: 180px;
+}
+.list {
+  display: flex;
+  height: 100%;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 0, 0, 0),
+    rgba(225, 230, 245, 255)
+  );
+  overflow: auto;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+}
